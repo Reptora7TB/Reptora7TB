@@ -6,7 +6,7 @@
 
 *About*:
 
-> Welcome to my first repository
+> This is my first repository
 
 ```
 Wow!
